@@ -1,0 +1,10 @@
+p#startQuery {
+	background-color: coral;
+	border-radius: 10px;
+	box-shadow: 0 4px 4px -4px brown;
+	color: #fff;
+	font-size: 15px;
+	line-height: 30px;
+	text-align: center;
+	width: 75px;
+}
